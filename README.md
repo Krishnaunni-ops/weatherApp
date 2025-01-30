@@ -55,6 +55,5 @@ Extended Forecast:
 🔹 Implement weather alerts  
 
 ## License  
-This project is licensed under the **MIT License**.  
-
+This project is intended for academic and learning purposes. All rights reserved.
 ---
