@@ -6,7 +6,7 @@ Project Title: Weather Forecast Application
 
 import requests
 
-API_KEY = "c4b1f892948856bf61f04a34491c6a62"
+API_KEY = "API key"
 CURRENT_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast?"
 
