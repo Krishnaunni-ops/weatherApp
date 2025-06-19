@@ -56,5 +56,5 @@ Extended Forecast:
 🔹 Implement weather alerts  
 
 ## License  
-This project is intended for academic and learning purposes. All rights reserved.
+This project is  academic and learning purposes. All rights reserved.
 ---
